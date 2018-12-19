@@ -4,5 +4,5 @@
 ##' @importFrom Deriv drule
 ##' @export
 ##' @examples
-##' Deriv(expression(myfun(x)))
+##' Deriv(myfun)
 myfun <- function(x) x
