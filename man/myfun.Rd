@@ -13,5 +13,5 @@ myfun(x)
 identity function whose derivative is exp(x)
 }
 \examples{
-Deriv(expression(myfun(x)))
+Deriv(myfun)
 }
